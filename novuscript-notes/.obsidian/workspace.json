@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c11315015c408e9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Toggle Grid.svg"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+                "file": "All Symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+                "file": "All Symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Toggle Grid.svg"
+                "file": "All Symbols.md"
               }
             }
           }
@@ -158,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c11315015c408e9",
+  "active": "939308dc98f5001a",
   "lastOpenFiles": [
-    "all-symbols.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "drawings/all-symbols.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
