@@ -45,3 +45,13 @@ Total = ~(11 + 3 + 1 + 4 + 15 + 1 + 9 + 170 + 228 + 184 + 198 + 395 + 736 + 114 
 Based off of this data, it looks like most of `PUA-A` is open, and all of `PUA-B`.
 
 # General Layout of Symbols
+I would like the general layout to be:
+- Uppercase
+	- Vowels
+	- Consonants
+- Lowercase
+	- Vowels
+	- Consonants
+- Numbers
+- Special characters
+Where consonants are paired up based on sound, voiced and voiceless next to each other (e.g. p b, f v)
