@@ -8,7 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea3cb4205487521a",
+            "id": "cb23d2428d9f6077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keyboard Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "337099b2141b86fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drawings/keyboard-layout_v0.1-default.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d8efa868e9a662d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Symbols.md",
+                "file": "drawings/keyboard-layout_v0.1-default.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All Symbols.md",
+                "file": "drawings/keyboard-layout_v0.1-default.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Symbols.md"
+                "file": "drawings/keyboard-layout_v0.1-default.excalidraw.md"
               }
             }
           }
@@ -149,16 +172,19 @@
   },
   "active": "939308dc98f5001a",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "drawings/keyboard-layout_template.excalidraw.md",
+    "drawings/keyboard-layout_v0.1-default.excalidraw.md",
+    "Keyboard Layout.md",
     "drawings/all-symbols.excalidraw.md",
+    "All Symbols.md",
+    "drawings.md",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "All Symbols.md",
-    "Keyboard Layout.md",
     "drawings",
     "Welcome.md"
   ]
