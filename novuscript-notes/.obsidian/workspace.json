@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keyboard Layout.md",
+                "file": "Unicode Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8efa868e9a662d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drawings/all-symbols.excalidraw.md"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "68dff7a8d695a22c",
@@ -173,14 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "193d9c187c39b527",
+  "active": "cb23d2428d9f6077",
   "lastOpenFiles": [
+    "Keyboard Layout.md",
     "All Symbols.md",
+    "drawings/all-symbols.excalidraw.md",
     "Unicode Layout.md",
     "drawings/keyboard-layout_v0.1-default.excalidraw.md",
-    "Keyboard Layout.md",
     "drawings/keyboard-layout_template.excalidraw.md",
-    "drawings/all-symbols.excalidraw.md",
     "drawings.md",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
