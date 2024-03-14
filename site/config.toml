@@ -1,3 +1,4 @@
 baseURL = 'http://eamonburns.com/novuscript/'
 languageCode = 'en-us'
 title = 'Novuscript'
+theme = 'novuscript'
