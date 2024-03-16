@@ -6,5 +6,7 @@ Sounds are described using [International Phonetic Alphabet](https://en.wikipedi
 - [Consonants](https://en.wikipedia.org/wiki/IPA_consonant_chart_with_audio)
 # Numbers
 ![Picture of Numbers and Mathematical Operators|10000](drawings/numbers-math.excalidraw)
+- 0 1 2 3 4 5 6 7 8 9 10 11
+- + \* - /  ^ % 
 # Special Characters
 ![Picture of Special Characters|10000](drawings/special-characters.excalidraw)

@@ -53,5 +53,6 @@ I would like the general layout to be:
 	- Vowels
 	- Consonants
 - Numbers
+- Mathematical Operators
 - Special characters
 Where consonants are paired up based on sound, voiced and voiceless next to each other (e.g. p b, f v)
