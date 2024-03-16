@@ -1,6 +1,8 @@
 # Keyboard 
 - [ ] Create keyboard layout
-	- Requires a [font](#font) first
+	- [ ] Find a list of the most common sounds in the English language
+		- [This might be useful](https://phoible.org/inventories/view/2175#tsegments)
+	- [ ] Create a [font](#font)
 
 # Font
 - [ ] Create a font
